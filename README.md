@@ -37,7 +37,7 @@ This is the place where I opensource stuff and break things :rofl:
 </p>
 
 <details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <summary><b>&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dairycode&hide=html'>
 </details>
