@@ -23,9 +23,6 @@ This is the place where I opensource stuff and break things :rofl:
 - 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
 
-![](https://raw.githubusercontent.com/dairycode/github-stats-transparent/output/generated/overview.svg)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dairycode)
-
 <h3>Things I code with</h3>
 <p>
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -42,4 +39,5 @@ This is the place where I opensource stuff and break things :rofl:
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dairycode)
 </details>
