@@ -1,27 +1,12 @@
 ## Hi there 👋
 
-<!--
-**dairycode/dairycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the place where I share my coding adventures and build amazing things :rofl:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-This is the place where I opensource stuff and break things :rofl:
-
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+- 🔭 &nbsp;I’m currently working on some awesome backend projects using Go and Java, aiming to take them to the next level. :wink:
+- 🌱 &nbsp;I’m currently learning front - end technologies like HTML, CSS, and JavaScript to become a full - stack developer.
+- 💬 &nbsp;Ask me about anything related to Go, Java, or any backend development concepts.
+- 👨‍💻 &nbsp;Read more about my projects on my GitHub repositories.
+- ⚡ &nbsp;Fun fact: I love solving complex coding puzzles and enjoy a good cup of coffee while coding.
 
 <h3>Things I code with</h3>
 <p>
