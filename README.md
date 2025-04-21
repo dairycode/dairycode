@@ -38,6 +38,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dairycode)
+  <br/>
 </details>
