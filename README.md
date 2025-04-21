@@ -3,7 +3,7 @@
 This is the place where I share my coding adventures and build amazing things :rofl:
 
 - 🔭 &nbsp;I’m currently working on some awesome backend projects using Go and Java, aiming to take them to the next level. :wink:
-- 🌱 &nbsp;I’m currently learning front-end technologies like HTML, CSS, and JavaScript to become a full-stack developer.
+- 🌱 &nbsp;I’m currently learning front-end technologies like Vue, and Node to become a full-stack developer.
 - 💬 &nbsp;Ask me about anything related to Go, Java, or any backend development concepts.
 - 👨‍💻 &nbsp;Read more about my projects on my GitHub repositories.
 - ⚡ &nbsp;Fun fact: I love solving complex coding puzzles and enjoy a good cup of coffee while coding.
