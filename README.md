@@ -24,7 +24,7 @@ This is the place where I opensource stuff and break things :rofl:
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
 
 ![](https://raw.githubusercontent.com/dairycode/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/dairycode/github-stats-transparent/output/generated/languages.svg)
+![]([https://raw.githubusercontent.com/dairycode/github-stats-transparent/output/generated/languages.svg](https://github-readme-stats.vercel.app/api/top-langs/?username=dairycode))
 
 <h3>Things I code with</h3>
 <p>
